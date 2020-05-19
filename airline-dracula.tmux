@@ -25,7 +25,7 @@ main() {
   tmux set-option -g status-right-length 100
   tmux set-option -g status-style bg="${dark_gray}"
   tmux set-option -g pane-active-border-style fg="${green}"
-  tmux set-option -g pane-border-style fg="${gray} bold"
+  tmux set-option -g pane-border-style fg="${light_purple} bold"
   tmux set-option -g message-style bg="${dark_purple}",fg="${white} bold"
   tmux set-option -g message-command-style bg="${dark_purple}",fg="${white} bold"
   tmux set-option -g mode-style bg="${dark_purple}",fg="${white} bold"
