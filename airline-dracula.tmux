@@ -6,7 +6,7 @@ main() {
   black='colour16'
   white='colour255'
   gray='colour236'
-  dark_gray='colour236'
+  dark_gray='colour235'
   light_purple='colour141'
   dark_purple='colour61'
   cyan='colour117'
